@@ -1,3 +1,4 @@
-archivo test linea modificada main
-segunda linea agregada main
-tercera linea agregada main
+archivo test linea modificada main nuevo cambio
+segunda linea agregada main nuevo cambio
+tercera linea agregada main nuevo cambio
+cuarta linea main agregada
